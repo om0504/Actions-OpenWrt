@@ -22,7 +22,7 @@ on:
     types: started
 
 env:
-  REPO_URL: https://github.com//lede
+  REPO_URL: https://github.com/om0504/lede
   REPO_BRANCH: master
   CONFIG_FILE: .config
   DIY_SH: diy.sh
